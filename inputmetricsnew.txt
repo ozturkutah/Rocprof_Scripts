@@ -1,0 +1,3 @@
+ pmc :  FETCH_SIZE MemUnitBusy ALUStalledByLDS LDSBankConflict VALUInsts SALUInsts SFetchInsts GDSInsts GRBM_COUNT GRBM_GUI_ACTIVE Wavefronts SQ_INSTS_VALU SQ_INSTS_SALU SQ_INSTS_SMEM SQ_INSTS_GDS
+ pmc :  L2CacheHit WriteUnitStalled GL2C_MC_WRREQ_sum SQ_INSTS_LDS
+ pmc :  GL2C_EA_WRREQ_64B_sum
